@@ -48,3 +48,5 @@ You are free to use these codes any way you like (e.g. creating namer/mass inc b
 
 Likewise, if you have any questions, feel free to ask in the Discord server. 
 
+Additionally, please do not use this to do anything that will violate poketwo or Discord's TOS. 
+
