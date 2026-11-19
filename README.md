@@ -44,7 +44,7 @@ else:
 ```
 
 ## Note:
-You are free to use these codes any way you like. But I would appreciate it if you let me know at https://discord.gg/F7JJG8cw8w.
+You are free to use these codes any way you like (e.g. creating namer/mass inc bots for your server). But I would appreciate it if you let me know at https://discord.gg/F7JJG8cw8w.
 
 Likewise, if you have any questions, feel free to ask in the Discord server. 
 
