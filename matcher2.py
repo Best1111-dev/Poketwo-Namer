@@ -23,7 +23,7 @@ import time
 from pathlib import Path
 import cv2
 import numpy as np
-import SPRITE_DIR
+from config import SPRITE_DIR
 
 # Toggle on (delete the #) if you want logs
 #import logging
